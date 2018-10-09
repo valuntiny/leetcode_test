@@ -11,6 +11,8 @@ class Solution:
         num += 1
 
         return [int(j) for j in str(num)]
+        # for i in str(num):
+            # print int(i)
 
 plusing = Solution()
 
